@@ -3,10 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "91772c61c4c0013e95a29d3473d14c4c",
+  "assets/AssetManifest.json": "c674705d4fb9d25036c64c6f84c59f5e",
 "assets/assets/images/Coding_Rocket.png": "71156188f0039b6263450ab29d2b59dd",
-"assets/assets/images/library_background.jpg": "05ce8e96a08a8818722f1576848aeacf",
-"assets/assets/images/library_background2.jpg": "471614a07bc7bfb185107fea2d00a556",
 "assets/assets/images/PythonAddTwo.JPG": "5454ed1db65dcb4860c1402094a94bc2",
 "assets/assets/images/PythonBinaryTreeTraversal.JPG": "a63f545524ef5f7580fb3b0b29910bd3",
 "assets/assets/images/PythonClimbingStairs.JPG": "fefa8bc93dcbff8047d04513fa6617a4",
@@ -14,6 +12,7 @@ const RESOURCES = {
 "assets/assets/images/PythonTwoSum.JPG": "bf7738b8975522fb721e591a6f7e7757",
 "assets/assets/images/PythonValidateBinaryTree.JPG": "8cc6e6615e945feb8e9cffc80c9129ad",
 "assets/assets/images/PythonZigzagConversion.JPG": "463df91b394dcd64ee09b635a30d6068",
+"assets/assets/images/Resume.JPG": "86329c2a6b61b8527783f83f2832cbcb",
 "assets/assets/images/Resume_Rocket.png": "fe5a75d66899e40971b6de6e9904b03a",
 "assets/assets/images/star.png": "291a071e45f85e14152ec9d013a6b2c0",
 "assets/FontManifest.json": "fa1a50502a815f0ff3a3a7813f4d09e9",
@@ -34,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0242214ba8af856b728bed85bd4f289d",
-"/": "0242214ba8af856b728bed85bd4f289d",
-"main.dart.js": "af3049f310f6a28efb7b6183d35a8b43",
+"index.html": "ee7d36687d597713abf24e026be632b9",
+"/": "ee7d36687d597713abf24e026be632b9",
+"main.dart.js": "a39dd8558feca184409fb2fdc8f9f378",
 "manifest.json": "92ef1753ea47fda5111e9f96d76801b4",
 "version.json": "8453b4e092c7338f00621f7279ec58c4"
 };
